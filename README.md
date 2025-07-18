@@ -6,7 +6,13 @@ Soy estudiante de **Ingeniería Informática** en la Pontificia Universidad Cat�
 
 - **Lenguajes:** C, C++, C#, Java, Python
 - **Frontend:** React
+- **Backend:** ASP.NET
 - **Bases de datos:** Oracle, MySQL, MSSQL
+
+## ☁️ Infraestructura y DevOps
+
+- Despliegue de servidores en **AWS**
+- Administración y configuración de servidores **GlassFish** e **IIS**
 
 ## 🧑‍💻 Proyectos Destacados
 
